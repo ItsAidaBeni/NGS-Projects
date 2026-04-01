@@ -1,5 +1,7 @@
 # NGS-Projects
 
+Aida Davoudian Beni & Sara Ashna
+
 ### The Paper: 
 Linsley PS, Speake C, Whalen E, Chaussabel D. Copy number loss of the interferon gene cluster in melanomas is linked to reduced T cell infiltrate and poor patient prognosis. PLoS One 2014;9(10):e109760.
 
